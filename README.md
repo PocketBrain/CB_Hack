@@ -5,7 +5,7 @@ RAG system with LLM
 Протестированные LLM: ai-forever/FRED-T5-1.7B  и IlyaGusev/saiga_mistral_7b_lora<br>
 Векторная БД: ChromaDB
 # Решение:
-Файл [CBhack_with_dataset.ipynb](https://github.com/PocketBrain/CB_Hack/blob/main/CBhack_with_dataset.ipynb) - содержить полный пайплайн с созданием эмбедингов и препроцессинга данных.
+Файл [CBhack_with_dataset.ipynb](https://github.com/PocketBrain/CB_Hack/blob/main/CBhack_with_dataset.ipynb) - содержить полный пайплайн с созданием эмбедингов и препроцессинга данных. <br>
 Файл [ResultLLM.ipynb](https://github.com/PocketBrain/CB_Hack/blob/main/ResultLLM.ipynb) - Используется для работы, при наличие файла эмбедингов.
 # Фичи:
 1)Кастомная рекурсивная разбивка данных на чанки(блоки) с помощью регулярных выражений, с большим пересечением чанков.<br>
