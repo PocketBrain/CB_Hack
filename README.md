@@ -6,7 +6,8 @@ RAG system with LLM
 Векторная БД: ChromaDB
 # Решение:
 Файл [CBhack_with_dataset.ipynb](https://github.com/PocketBrain/CB_Hack/blob/main/CBhack_with_dataset.ipynb) - содержить полный пайплайн с созданием эмбедингов и препроцессинга данных. <br>
-Файл [ResultLLM.ipynb](https://github.com/PocketBrain/CB_Hack/blob/main/ResultLLM.ipynb) - Используется для работы, при наличие файла эмбедингов.
+Файл [ResultLLM.ipynb](https://github.com/PocketBrain/CB_Hack/blob/main/ResultLLM.ipynb) - Используется для работы, при наличие файла эмбедингов.<br>
+[Telegram Bot](https://github.com/Cirilus/PurpleTgBot)- Для запуска и демонстрации работы RAG
 # Фичи:
 1)Кастомная рекурсивная разбивка данных на чанки(блоки) с помощью регулярных выражений, с большим пересечением чанков.<br>
 2)Добавление метаданных к блокам данных: Название файла и страница файла.<br>
