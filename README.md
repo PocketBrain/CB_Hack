@@ -15,5 +15,6 @@ RAG system with LLM
 4)Использование перефразирования запроса пользователя для создания лучшего промпта.<br>
 5)Использование системных токенов в промпте для меньших галюцинаций.<br>
 # Датасет:
-https://drive.google.com/file/d/1NzfE5YRHSdpc2rfDKxnBqyKKVpiJjXil/view?usp=drive_link <br>
-Датасет был собран с помощью парсинга сайта ЦБ, данные сканов были удалены и взята только потенциально полезная информация для RAG.
+[https://drive.google.com/file/d/1NzfE5YRHSdpc2rfDKxnBqyKKVpiJjXil/view?usp=drive_link ](https://drive.google.com/file/d/1NzfE5YRHSdpc2rfDKxnBqyKKVpiJjXil/view?usp=sharing)<br>
+Датасет был собран с помощью парсинга сайта ЦБ, данные сканов были удалены и взята только потенциально полезная информация для RAG.<br>
+https://drive.google.com/file/d/1ixXtR-_JCipCJeTekcwVY5SUfWHOtk_H/view?usp=sharing  - Архив эмбедингов, в случае запуска через ноутбук
